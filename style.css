@@ -96,7 +96,7 @@ body {
   display: flex;
   justify-content: center;
   color: #4a56e9;
-  font-size: clamp(1rem, 5vw, 1.5rem);
+  font-size: clamp(0.8rem, 5vw, 1.5rem);
   margin-top: 0 !important;
   font-family: Poppins;
   font-weight: 700;
